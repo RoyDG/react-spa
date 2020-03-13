@@ -1,0 +1,29 @@
+.Header img {
+    height: 50px;
+    width: 100px;
+    padding: 5px;
+    float: left;
+}
+.Header {
+    text-align: center;
+}
+nav {
+    background-color: rgba(145, 103, 103, 0.616);
+    line-height: 70px;
+    font-size: 20px;
+}
+nav a {
+    color: rgb(29, 21, 21);
+    text-decoration: none;
+    margin-right: 20px;
+    padding-left: 5px;
+}
+nav a:hover {
+    color: gray;
+}
+.search-btn {
+    background-color: rgb(83, 151, 66);
+    border-color: lightslategrey;
+    border-radius: 5px;
+    margin-left: 10px;
+}

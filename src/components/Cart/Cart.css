@@ -1,0 +1,13 @@
+.cart {
+    text-align: center;
+}
+.total {
+    color: rgba(192, 35, 7, 0.609);
+}
+.cart-button{
+    background-color: #F0C14A;
+    width: 150px;
+    height: 40px;
+    border-color: lightslategrey;
+    border-radius: 5px;
+}
